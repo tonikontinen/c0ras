@@ -1,4 +1,6 @@
 - 👋 Hi, there
+
+
 My name is Toni and I'm a student of programming.
 Right now my mind is focused on learning everything there is to know about javascript.
 
