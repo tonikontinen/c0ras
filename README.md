@@ -1,4 +1,4 @@
-- 👋 Hi, there
+👋 Hi, there
 
 
 My name is Toni and I'm a student of programming.
